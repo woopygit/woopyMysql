@@ -39,3 +39,6 @@ auth = WoopyMysqlAuth(WoopyAuth=WoopyAuth)
 ```python
 auth = WoopyMysqlAuth(WoopyEnv='.env')
 ```
+## Websites using 'woopy' library:
+- [OffertaLampo.net](https://www.offertalampo.net)
+- [PriceErrors.net](https://www.priceerrors.net)
